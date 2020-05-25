@@ -1,0 +1,2 @@
+# SpiceSeller
+Spice Seller Project
